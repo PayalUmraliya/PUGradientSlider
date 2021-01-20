@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "PUGradientSlider"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "PUGradientSlider is the custome UISlider."
 
   spec.description  = <<-DESC
@@ -13,9 +13,7 @@ Pod::Spec.new do |spec|
 
   spec.license      = { :type => "MIT", :file => "LICENSE" }
 
-  spec.author             = { "Payal Umraliya" => "behappy78600@gmail.com" }
-  
-  spec.platform     = :ios, "12.0"
+  spec.author             = { "Payal U." => "behappy78600@gmail.com" }
 
   spec.ios.deployment_target = "12.0"
 
