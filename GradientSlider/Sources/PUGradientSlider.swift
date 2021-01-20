@@ -15,7 +15,7 @@ public class PUGradientSlider
     {
         
     }
-    func setSlider(slider:UISlider)
+    public func setSlider(slider:UISlider)
     {
         let tgl = CAGradientLayer()
         let frame = CGRect(x: 0.0, y: 0.0, width: slider.bounds.width, height: 12.0 )
