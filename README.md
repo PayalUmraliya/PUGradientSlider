@@ -19,7 +19,7 @@ Types
 
 ### Cocoapods
 
-[Cocoapods](https://cocoapods.org/#install) is a dependency manager for Swift and Objective-C Cocoa projects. To use PUWaitHUD with CocoaPods, add it in your `Podfile`.
+[Cocoapods](https://cocoapods.org/#install) is a dependency manager for Swift and Objective-C Cocoa projects. To use PUGradientSlider with CocoaPods, add it in your `Podfile`.
 
 ```swift
 pod 'PUGradientSlider'
@@ -28,7 +28,7 @@ pod 'PUGradientSlider'
 To specify with version:
 
 ```swift
-pod 'PUWaitHUD', :git => 'https://github.com/PayalUmraliya/PUGradientSlider.git', :branch => '1.0.1'
+pod 'PUGradientSlider', :git => 'https://github.com/PayalUmraliya/PUGradientSlider.git', :branch => '1.0.1'
 ```
 
 ## Usage
@@ -38,8 +38,6 @@ First you need to import `PUGradientSlider` at the view controller file where yo
 ```swift
 import PUGradientSlider
 ```
-
-### 
 
 ```swift
 PUGradientSlider().setSlider(slider: gslider)
