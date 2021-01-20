@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
                    DESC
 
   spec.homepage     = "https://github.com/PayalUmraliya/PUGradientSlider"
-  spec.screenshot  = ""
+  spec.screenshot  = "https://raw.githubusercontent.com/PayalUmraliya/PUGradientSlider/main/output.gif"
 
   spec.license      = { :type => "MIT", :file => "LICENSE" }
 
