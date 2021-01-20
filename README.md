@@ -38,9 +38,15 @@ First you need to import `PUGradientSlider` at the view controller file where yo
 ```swift
 import PUGradientSlider
 ```
+Create outlet for the UISlider
 
 ```swift
-PUGradientSlider().setSlider(slider: gslider)
+@IBOutlet weak var Heatslider: UISlider!
+```
+Add below line to customise the slider
+
+```swift
+PUGradientSlider().setSlider(slider: Heatslider)
 ```
 
 ###
