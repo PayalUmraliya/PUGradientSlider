@@ -23,4 +23,5 @@ Pod::Spec.new do |spec|
 
   spec.source_files  = "GradientSlider/Sources/**/*.{h,m,swift}"
 
+  spec.swift_version = "4.0"
 end
