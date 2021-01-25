@@ -6,15 +6,6 @@
 
 ![Output](https://github.com/PayalUmraliya/PUGradientSlider/blob/main/output.gif)
 
-## Animation types
-
-Types                   
-
-1. Dashed 
-2. Infinity
-3. Ripley
-4. Quarbit
-
 ## Installation
 
 ### Cocoapods
